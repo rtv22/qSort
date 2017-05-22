@@ -1,8 +1,7 @@
 # matrix
 
-[![Build Status](https://travis-ci.org/rtv22/matrix.svg?branch=master)](https://travis-ci.org/rtv22/matrix)
+[![Build Status](https://travis-ci.org/rtv22/qSort.svg?branch=master)](https://travis-ci.org/rtv22/qSort)
 
-matrix methods:
-- [] data
-- [] default constructor
+qSort methods:
+- [X] sort
 
