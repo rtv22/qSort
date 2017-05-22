@@ -2,7 +2,7 @@
 #include <catch.hpp>
 #include <iostream>
 
-	SCENARIO("qSort","[sort]")
+SCENARIO("qSort","[sort]")
 {
  	int matrix[6] = { 222 , 111, 666, 333, 555, 444 };
 	int sorted_matrix[6] =  { 111, 222, 333, 444, 555, 666 };
