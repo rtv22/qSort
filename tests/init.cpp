@@ -1,6 +1,5 @@
 #include <qSort.hpp>
 #include <catch.hpp>
-#include <iostream>
 
 SCENARIO("qSort","[sort]")
 {
