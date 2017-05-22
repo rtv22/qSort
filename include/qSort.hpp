@@ -22,7 +22,7 @@ void qSort(Iterator b, Iterator e)
 		}
 		if (i <= j)
 		{
-			iter_swap(j, i);
+			std::iter_swap(j, i);
 			++i;
 			--j;
 		}
